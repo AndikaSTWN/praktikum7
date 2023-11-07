@@ -1,7 +1,7 @@
 # Pertemuan - 7
-| Nama  |Faiz Maulana|
+| Nama  |Andika Setiawan|
 |-------|------------|
-| NIM   |312310469   |
+| NIM   |312310470   |
 | Kelas |TI.23.A5    |
 
 ## Tugas Struktur Kondisi
