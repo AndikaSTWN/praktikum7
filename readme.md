@@ -188,5 +188,3 @@ print("Total laba adalah: ", pendapatan)
 ```
 ### Maka Outputnya
 ![Alt text](gambar/image-7.png)
-
-# Terima Kasih
